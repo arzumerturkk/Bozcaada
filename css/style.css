@@ -1,0 +1,76 @@
+/**************Anasayfa*****************/
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.aciklama{
+   
+    text-indent: 15px;
+    text-align: justify;
+    width: 600px;
+    height: 150px;
+    margin: auto;
+    color: #747574;
+   
+    
+
+}
+
+.header{
+    font-size: 20px;
+    color:#a7b2e2;
+    
+}   
+
+.hr{
+    width: 60%;
+    border-style: solid;
+    color:#F4EEFF;
+    border-width: 2px;
+}
+
+.a{
+    text-decoration:none;
+    color:#A6B1E1;
+    font-size: 18px;
+    padding-top: 15px;
+
+}
+
+.img{
+    height: 300px;
+    width: 300px;
+    border-radius: 10px;
+    margin: 20px 5px 20px 5px;
+    
+    
+}
+.footer{
+    color: #747574;
+    font-size: 13px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+/**********Gezilecek Yerler**********/
+.list{
+
+   list-style: none; 
+   margin: auto;
+  
+}
+.aciklama-yer{
+   
+    text-indent: 15px;
+    text-align: justify;
+    width: 600px;
+    height: 150px;
+    margin: auto;
+    color: #747574;
+    margin-bottom:-65px;
+}
+
+/*************Gidilecek Mekanlar*****************/
+.aciklama-mekan{
+    text-align: center;
+    color: #747574;
+}
